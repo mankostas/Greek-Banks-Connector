@@ -1,0 +1,10 @@
+# Ignore Docker-related files
+docker-compose.yml
+Dockerfile
+
+# Ignore WordPress core files
+wp-config.php
+wp-content/
+
+# Ignore local development files
+.DS_Store
